@@ -5,56 +5,34 @@ permalink: /projects/
 published: true
 ---
 
-## Projects
+<img src="../assets/images/taskflow_logo.png" align="left" width="13%">
+#### Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System  
 
-#### Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System
-<!--<img src="https://img.shields.io/badge/project-software-green">-->
-
-<img src="../assets/images/taskflow_logo.png" style="float: left; width: 10%;">
-
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
 **Taskflow** helps C++ developers quickly write parallel and heterogeneous programs 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with high performance and simultaneous high productivity.
-
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-<a href="https://github.com/dian-lun-lin/SNIG">
+with high performance and simultaneous high productivity.
+<!--<img src="https://img.shields.io/badge/project-software-green">-->
+<a href="https://taskflow.github.io/" style="float: right;">
 <img src="../assets/images/github-logo.jpg" height="25px">
 Repository
 </a>
 
-#### RTLflow: A GPU Acceleration Flow for RTL Simulation with Batch Stimulus
+<br/>
 
-<img src="../assets/images/rtlflow_logo.png" style="float: left;">
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-**RTLflow** helps circuit designers quickly simulate RTL designs using &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;automatically 
+<img src="../assets/images/rtlflow_logo.png" align="left" width="13%">
+#### RTLflow: A GPU Acceleration Flow for RTL Simulation with Batch Stimulus 
+**RTLflow** helps circuit designers quickly simulate RTL designs using automatically 
 generated C++ and CUDA code on a high-throughput GPU platform.
-
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-<a href="https://github.com/dian-lun-lin/SNIG">
+<a href="https://github.com/dian-lun-lin/rtlflow" style="float: right;">
 <img src="../assets/images/github-logo.jpg" height="25px">
 Repository
 </a>
 
-#### SNIG: Large Sparse Neural Network Inference using Task Graph Parallelism
-<img src="../assets/images/snig_logo.png" style="float: left;width: 20%;">
-&nbsp;&nbsp;
-**SNIG** is the Champion-Award inference engine of the 2020 IEEE/MIT/Amazon HPEC Graph Challenge for Large Sparse Neural Network.
+<br/>
 
-&nbsp;&nbsp;
-<a href="https://github.com/dian-lun-lin/SNIG">
+<img src="../assets/images/snig_logo.png" align="left" width="13%">
+#### SNIG: Large Sparse Neural Network Inference using Task Graph Parallelism 
+**SNIG** is the Champion-Award inference engine for Large Sparse Neural Network.
+<a href="https://github.com/dian-lun-lin/SNIG" style="float: right;">
 <img src="../assets/images/github-logo.jpg" height="25px">
 Repository
 </a>

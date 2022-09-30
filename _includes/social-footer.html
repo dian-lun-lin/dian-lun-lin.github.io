@@ -8,15 +8,6 @@
     </a>
     {%- endif -%}
 
-    {%- if site.scopus -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Scopus' }}"
-    class="social-button scopus"
-    href="https://www.scopus.com/authid/detail.uri?authorId={{ site.scopus }}" itemprop="sameAs"
-    target="_blank">
-    <i class="ai ai-scopus"></i>
-    </a>
-    {%- endif -%}
-
     {%- if site.google_scholar -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'Google Scholar' }}" 
     class="social-button google-scholar"
@@ -26,21 +17,21 @@
     </a>
     {%- endif -%}
 
-    {%- if site.linkedin -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'LinkedIn' }}"
-    class="social-button linkedin"
-    href="https://www.linkedin.com/in/{{ site.linkedin }}" itemprop="sameAs"
-    target="_blank">
-    <i class="fab fa-linkedin"></i>
-    </a>
-    {%- endif -%}
-
     {%- if site.github -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'GitHub' }}"
     class="social-button github"
     href="https://www.github.com/{{ site.github }}" itemprop="sameAs"
     target="_blank">
     <i class="fab fa-github"></i>
+    </a>
+    {%- endif -%}
+
+    {%- if site.linkedin -%}
+    <a title="{{ _locale_string_follow | replace: '[NAME]', 'LinkedIn' }}"
+    class="social-button linkedin"
+    href="https://www.linkedin.com/in/{{ site.linkedin }}" itemprop="sameAs"
+    target="_blank">
+    <i class="fab fa-linkedin"></i>
     </a>
     {%- endif -%}
 
@@ -62,15 +53,6 @@
     </a>
     {%- endif -%}
 
-    {%- if site.flickr -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Flickr' }}"
-    class="social-button flickr"
-    href="https://www.flickr.com/photos/{{ site.flickr }}" itemprop="sameAs"
-    target="_blank">
-    <i class="fab fa-flickr"></i>
-    </a>
-    {%- endif -%}
-
     {%- if site.twitter -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}"
     class="social-button twitter"
@@ -79,5 +61,24 @@
     <i class="fab fa-twitter"></i>
     </a>
     {%- endif -%}
+
+    {%- if site.instagram -%}
+    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Instagram' }}"
+    class="social-button instagram"
+    href="https://www.instagram.com/{{ site.instagram }}" itemprop="sameAs"
+    target="_blank">
+    <i class="fab fa-instagram"></i>
+    </a>
+    {%- endif -%}
+
+    {%- if site.facebook -%}
+    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Facebook' }}"
+    class="social-button facebook"
+    href="https://www.facebook.com/{{ site.facebook }}" itemprop="sameAs"
+    target="_blank">
+    <i class="fab fa-facebook"></i>
+    </a>
+    {%- endif -%}
+
 
 </div>

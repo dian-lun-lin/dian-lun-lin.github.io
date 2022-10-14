@@ -7,8 +7,8 @@ published: true
 
 #### Awards
 
-0. ACM/PACT Student Research Competition (SRC), accepted, 2022
-0. **Champion** of the IEEE/MIT/AMAZON HPEC Large Sparse Neutal Network Challenge, 2020
+0. **Second Place** in ACM/PACT Student Research Competition (SRC), 2022
+0. **Champion** in the IEEE/MIT/AMAZON HPEC Large Sparse Neutal Network Challenge, 2020
 0. ACM ISPD Wafer-Scale Physics Modeling Contest - Honorable Mention, 2020
 0. ACM/IEEE DAC Young Student Fellowship, 2021
 0. ACM/IEEE DAC Young Student Fellowship, 2020
@@ -25,7 +25,9 @@ published: true
 #### Attendance
 0. Parallel Architectures and Compilation Techniques (PACT), Chicago, 2022
 0. ACM International Conference on Parallel Processing (ICPP), Remote, 2022
+0. Design Automation Conference (DAC), Remote, 2021
 0. The C++ Conference (CppCon), Colorado, 2021
 0. European Conference on Parallel and Distributed Computing (Euro-Par), Remote, 2021
+0. Design Automation Conference (DAC), Remote, 2020
 0. High-performance and Extreme Computing Conference (HPEC), Remote, 2020
 

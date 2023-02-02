@@ -20,6 +20,7 @@ published: true
 0. [CppCon 2022](https://cppcon.org/) - "<i>The C++ Conference</i>", Colorado, USA
 
 #### Reviwer
+0. [DAC 2023](https://www.dac.com/) - "<i>Design Automation Conference</i>", California, USA
 0. [DAC 2022](https://www.dac.com/) - "<i>Design Automation Conference</i>", California, USA
 
 #### Attendance

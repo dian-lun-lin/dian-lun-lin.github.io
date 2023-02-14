@@ -17,6 +17,7 @@ published: true
 
 
 #### Program Committee Membership
+0. [C++Now 2023](https://cppnow.org/) - "<i>The C++Now conferencee</i>", Colorado, USA
 0. [CppCon 2022](https://cppcon.org/) - "<i>The C++ Conference</i>", Colorado, USA
 
 #### Reviwer

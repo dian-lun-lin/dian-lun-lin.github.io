@@ -7,8 +7,11 @@ published: true
 
 ## Papers
 
+#### 2023
+***Dian-Lun Lin***, Yanqing Zhang, Haoxing Ren, Shih-Hsin Wang, Brucek Khailany, and Tsung-Wei Huang, "GenFuzz: GPU-accelerated Hardware Fuzzing using Genetic Algorithm with Multiple Inputs", ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2023
+
 #### 2022
-***Dian-Lun Lin***, Haoxing Ren, Yanqing Zhang, Brucek Khailany, and Tsung-Wei Huang, "From RTL to CUDA: A GPU Acceleration Flow for RTL Simulation with Batch Stimulus", ACM International Conference on Parallel Processing (ICPP), Bordeaux, France, 2022
+***Dian-Lun Lin***, Haoxing Ren, Yanqing Zhang, Brucek Khailany, and Tsung-Wei Huang, ["From RTL to CUDA: A GPU Acceleration Flow for RTL Simulation with Batch Stimulus"](https://dl.acm.org/doi/abs/10.1145/3545008.3545091), ACM International Conference on Parallel Processing (ICPP), Bordeaux, France, 2022
 
 
 Cheng-Hsiang Chiu, ***Dian-Lun Lin***, and Tsung-Wei Huang, ["An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads"](https://easychair.org/publications/preprint/GjhX), European Conference on Parallel and Distributed Computing (Euro-Par), Portugal, 2022.

@@ -7,6 +7,7 @@ published: true
 
 #### Awards
 
+0. ACM/IEEE DAC Young Student Fellowship, 2023
 0. **Second Place** in ACM/PACT Student Research Competition (SRC), 2022
 0. **Champion** in the IEEE/MIT/AMAZON HPEC Large Sparse Neutal Network Challenge, 2020
 0. ACM ISPD Wafer-Scale Physics Modeling Contest - Honorable Mention, 2020

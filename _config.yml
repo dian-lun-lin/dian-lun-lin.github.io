@@ -3,7 +3,7 @@ title: Dian-Lun Lin
 description: PhD student at University of Utah
 
 baseurl: "" #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+url: "https://github.com/dian-lun-lin/dian-lun-lin.github.io/blob/main/dian_lun_lin_2023_resume.pdf" #custom url to be used instead of GitHub repository
 email: dian-lun.lin@utah.edu
 
 highlighter: rouge

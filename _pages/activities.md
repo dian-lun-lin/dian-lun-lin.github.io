@@ -25,10 +25,12 @@ published: true
 0. [CppCon 2022](https://cppcon.org/) - "<i>The C++ Conference</i>", Colorado, USA
 
 #### Reviwer
+0. [SC 2023](https://sc23.supercomputing.org/) - "<i>Super Computing</i>", Colorado, USA
 0. [DAC 2023](https://www.dac.com/) - "<i>Design Automation Conference</i>", California, USA
 0. [DAC 2022](https://www.dac.com/) - "<i>Design Automation Conference</i>", California, USA
 
 #### Attendance
+0. The C++Now Conference (CppNow), Colorado, 2023
 0. Parallel Architectures and Compilation Techniques (PACT), Chicago, 2022
 0. ACM International Conference on Parallel Processing (ICPP), Remote, 2022
 0. Design Automation Conference (DAC), Remote, 2021

@@ -7,6 +7,8 @@ published: true
 
 ## Talks
 
+0. "An Introduction to C++ Coroutines Through a Thread Scheduling Demonstration", Berkeley National Lab, June 2023
+0. "An Introduction to C++ Coroutines Through a Thread Scheduling Demonstration", CppNow, May 2023
 0. ["RTLflow: A GPU acceleration flow for parallel RTL simulation"](https://www.youtube.com/watch?v=00K8S3tNUSg), ICPP, Aug 2022
 0. "G-Fuzz: GPU-accelerated hardware fuzzing", NVIDIA Research, Aug 2022
 0. "RTLflow: A GPU acceleration flow for parallel RTL simulation", NVIDIA Research, Apr 2022

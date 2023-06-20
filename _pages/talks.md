@@ -7,6 +7,7 @@ published: true
 
 ## Talks
 
+0. "Accelerating Hardware Design Verification: Exploring Simultaneous Execution of Multiple Stimuli with RTLflow and GenFuzz ", MediaTek Research, June 2023
 0. "An Introduction to C++ Coroutines Through a Thread Scheduling Demonstration", Berkeley National Lab, June 2023
 0. "An Introduction to C++ Coroutines Through a Thread Scheduling Demonstration", CppNow, May 2023
 0. ["RTLflow: A GPU acceleration flow for parallel RTL simulation"](https://www.youtube.com/watch?v=00K8S3tNUSg), ICPP, Aug 2022

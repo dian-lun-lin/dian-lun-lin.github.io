@@ -1,10 +1,10 @@
 ### your site title here
 title: Dian-Lun Lin
-description: PhD student at University of Wisconsin-Madison
+description: Fourth-year PhD student at University of Wisconsin-Madison
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: dian-lun.lin@utah.edu
+email: dianlun.lin@wisc.edu
 
 highlighter: rouge
 markdown: kramdown

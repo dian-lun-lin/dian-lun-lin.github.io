@@ -34,8 +34,8 @@ Cheng-Hsiang Chiu, ***Dian-Lun Lin***, and Tsung-Wei Huang, ["An Experimental St
 
 ## Journal Papers
 
-***Dian-Lun Lin*** and Tsung-Wei Huang, ["Accelerating Large Sparse Neural Network Inference using GPU Task Graph Parallelism"](https://ieeexplore.ieee.org/abstract/document/9664223), IEEE Transactions on Parallel and Distributed Systems (TPDS)
+***Dian-Lun Lin*** and Tsung-Wei Huang, ["Accelerating Large Sparse Neural Network Inference using GPU Task Graph Parallelism"](https://ieeexplore.ieee.org/abstract/document/9664223), IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022
 
-Tsung-Wei Huang, ***Dian-Lun Lin***, Chun-Xun Lin, and Yibo Lin, ["Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System"](https://ieeexplore.ieee.org/abstract/document/9511796), IEEE Transactions on Parallel and Distributed Systems (TPDS)
+Tsung-Wei Huang, ***Dian-Lun Lin***, Chun-Xun Lin, and Yibo Lin, ["Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System"](https://ieeexplore.ieee.org/abstract/document/9511796), IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022
 
-Tsung-Wei Huang, ***Dian-Lun Lin***, Yibo Lin, and Chun-Xun Lin, ["Taskflow: A General-purpose Parallel and Heterogeneous Task Programming Systesm"](https://ieeexplore.ieee.org/abstract/document/9438696), IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)
+Tsung-Wei Huang, ***Dian-Lun Lin***, Yibo Lin, and Chun-Xun Lin, ["Taskflow: A General-purpose Parallel and Heterogeneous Task Programming Systesm"](https://ieeexplore.ieee.org/abstract/document/9438696), IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD), 2022

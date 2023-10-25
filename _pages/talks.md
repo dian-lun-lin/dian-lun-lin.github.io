@@ -7,7 +7,7 @@ published: true
 
 ## Talks
 
-0. "cudaFlow: A Modern C++ Programming Model for GPU Task Graph Parallelism", NERSC, Oct 2023
+0. ["A Task Graph-based Programming System for CPU-GPU Heterogeneous Computing"](https://www.nersc.gov/users/training/past-training-events/2023/gpus-for-science-day-2023/), GPUs for Science Day, NERSC, Oct 2023
 0. "Taro: Task-graph-based Asynchronous Programming Using C++ Coroutines", CppCon, Oct 2023
 0. "Accelerating Hardware Design Verification: Exploring Simultaneous Execution of Multiple Stimuli with RTLflow and GenFuzz ", MediaTek Research, June 2023
 0. "An Introduction to C++ Coroutines Through a Thread Scheduling Demonstration", Berkeley National Lab, June 2023

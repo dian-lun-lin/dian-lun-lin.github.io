@@ -16,11 +16,6 @@ published: true
 0. Best Master Thesis Nomination, National Taiwan University, 2019
 0. Presidential Award, National Cheng Kung University, 2015
 
-#### Presenter
-0. [CppCon 2023](https://cppcon.org/) - "<i>The C++ Conference</i>", Colorado, USA
-0. [C++Now 2023](https://cppnow.org/) - "<i>The C++Now conference</i>", Colorado, USA
-0. [CppCon 2021](https://cppcon.org/) - "<i>The C++ Conference</i>", Colorado, USA
-
 #### Program Committee Membership
 0. [CppCon 2023](https://cppcon.org/) - "<i>The C++ Conference</i>", Colorado, USA
 0. [C++Now 2023](https://cppnow.org/) - "<i>The C++Now conference</i>", Colorado, USA

@@ -7,6 +7,7 @@ published: true
 
 #### Awards
 
+0. "An Introduction to C++ Coroutine", Invited post by Rainer Grimm, 2023
 0. ACM/IEEE DAC Young Student Fellowship, 2023
 0. **Second Place** in ACM/PACT Student Research Competition (SRC), 2022
 0. **Champion** in the IEEE/MIT/AMAZON HPEC Large Sparse Neutal Network Challenge, 2020

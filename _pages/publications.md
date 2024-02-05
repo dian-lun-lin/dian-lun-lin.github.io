@@ -7,13 +7,14 @@ published: true
 
 ## C++ Conference
 
-***Dain-lun Lin***, "Taro: Task graph-based Asynchronous Programming Using C++ Coroutine", The C++ Conference (CppCon), US, 2023
+***Dain-lun Lin***, ["Taro: Task graph-based Asynchronous Programming Using C++ Coroutine"](https://youtu.be/UCejPLSCaoI), The C++ Conference (CppCon), US, 2023
 
 ***Dain-lun Lin***, ["Introduction to C++ Coroutines Through a Thread Scheduling Demonstration"](https://youtu.be/kIPzED3VD3w), The C++Now Conference (C++Now), US, 2023
 
 Tsung-Wei Huang and ***Dain-lun Lin***, ["cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism "](https://youtu.be/-tIQbIhTAv8), The C++ Conference (CppCon), US, 2021
 
 ## Papers
+Tsung-Wei Huang, Boyang Zhang, ***Dian-Lun Lin***, and Cheng-Hsiang Chiu, "Parallel and Heterogeneous Timing Analysis: Partition, Algorithm, and System," ACM International Symposium on Physical Design (ISPD), Taiwan, 2024
 
 ***Dian-Lun Lin***, Yanqing Zhang, Haoxing Ren, Shih-Hsin Wang, Brucek Khailany, and Tsung-Wei Huang, "GenFuzz: GPU-accelerated Hardware Fuzzing using Genetic Algorithm with Multiple Inputs", ACM/IEEE Design Automation Conference (DAC), US, 2023
 

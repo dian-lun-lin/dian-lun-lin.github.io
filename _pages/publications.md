@@ -14,6 +14,15 @@ published: true
 Tsung-Wei Huang and ***Dain-lun Lin***, ["cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism "](https://youtu.be/-tIQbIhTAv8), The C++ Conference (CppCon), US, 2021
 
 ## Papers
+
+***Dian-Lun Lin*** (co-first author), Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, Bojue Wang, Wan Luan Lee, Chih-Chun Chang, Donghao Fang, and Tsung-Wei Huang, "G-PASTA: GPU Accelerated Partitioning Algorithm for Static Timing Analysis," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2024
+
+Wan Luan Lee, ***Dian-Lun Lin***, Tsung-Wei Huang, Shui Jiang, Tsung-Yi Ho, Yibo Lin, and Bei Yu, "G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2024
+
+Che Chang, Tsung-Wei Huang, ***Dian-Lun Lin***, Guannan Guo, and Shiju Lin, "Ink: Efficient Incremental k-Critical Path Generation," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2024
+
+Shao-Hung Chan, Zhe Chen, ***Dian-Lun Lin***, Yue Zhang, Daniel Harabor, Tsung-Wei Huang, Sven Koenig, and Thomy Phan, "Anytime Multi-Agent Path Finding using Operator Parallelism in Large Neighborhood Search," International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), Auckland, New Zealand, 2024
+
 Tsung-Wei Huang, Boyang Zhang, ***Dian-Lun Lin***, and Cheng-Hsiang Chiu, "Parallel and Heterogeneous Timing Analysis: Partition, Algorithm, and System," ACM International Symposium on Physical Design (ISPD), Taiwan, 2024
 
 ***Dian-Lun Lin***, Yanqing Zhang, Haoxing Ren, Shih-Hsin Wang, Brucek Khailany, and Tsung-Wei Huang, "GenFuzz: GPU-accelerated Hardware Fuzzing using Genetic Algorithm with Multiple Inputs", ACM/IEEE Design Automation Conference (DAC), US, 2023

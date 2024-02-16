@@ -16,11 +16,13 @@ published: true
 0. Presidential Award, National Cheng Kung University, 2015
 
 #### Program Committee Membership
+0. [C++Now 2024](https://cppnow.org/) - "<i>The C++Now conference</i>", Colorado, USA
 0. [CppCon 2023](https://cppcon.org/) - "<i>The C++ Conference</i>", Colorado, USA
 0. [C++Now 2023](https://cppnow.org/) - "<i>The C++Now conference</i>", Colorado, USA
 0. [CppCon 2022](https://cppcon.org/) - "<i>The C++ Conference</i>", Colorado, USA
 
 #### Invited Journal Review
+0. [Concurrency and Computation: Practice and Experience 2024](https://onlinelibrary.wiley.com/journal/15320634), USA
 0. [The Journal of Supercomputing 2023](https://link.springer.com/journal/11227), USA
 0. [IEEE Access 2023](https://ieeeaccess.ieee.org/), USA
 <!--0. [IPDPS 2024](https://www.ipdps.org/) - "<i> IEEE International Parallel & Distributed Processing Symposium</i>", California, USA-->

@@ -7,10 +7,7 @@ published: true
 
 <img src="../assets/images/taro_logo.png" align="left" width="13%">
 #### Taro: Task graph-based asynchronous programming system using C++ coroutine
-
-***Taro*** is an open-source asynchronous task graph programming system using C++ Coroutine. 
-Taro allows you to write coroutines in a task graph while abstracting away complex coroutine management. 
-
+***Taro*** is an open-source asynchronous task graph programming system that allows you to write coroutines in a task graph while abstracting away complex coroutine management. 
 <!--<img src="https://img.shields.io/badge/project-software-green">-->
 <a href="https://github.com/dian-lun-lin/taro" style="float: right;">
 <img src="../assets/images/github-logo.jpg" height="25px">
@@ -19,7 +16,6 @@ Repository
 
 <img src="../assets/images/taskflow_logo.png" align="left" width="13%">
 #### Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System  
-
 **Taskflow** helps C++ developers quickly write parallel and heterogeneous programs 
 with high performance and simultaneous high productivity.
 <!--<img src="https://img.shields.io/badge/project-software-green">-->

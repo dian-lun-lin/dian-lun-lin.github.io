@@ -5,7 +5,7 @@ permalink: /projects/
 published: true
 ---
 
-<img src="../assets/images/taro_logo.png" align="left" width="18%">
+<img src="../assets/images/taro_logo.png" align="left" width="13%">
 #### Taro: Task graph-based asynchronous programming system using C++ coroutine
 ***Taro*** is an asynchronous task graph programming system that allows you to 
 write coroutines in a task graph while abstracting away complex coroutine management. 

@@ -5,7 +5,7 @@ permalink: /talks/
 published: true
 ---
 
-## Talks
+## Invited Talks
 
 0. ["A Task Graph-based Programming System for CPU-GPU Heterogeneous Computing"](https://www.nersc.gov/users/training/past-training-events/2023/gpus-for-science-day-2023/), GPUs for Science Day, NERSC, Oct 2023
 0. ["Taro: Task-graph-based Asynchronous Programming Using C++ Coroutines"](https://youtu.be/UCejPLSCaoI), CppCon, Oct 2023

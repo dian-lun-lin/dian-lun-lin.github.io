@@ -14,7 +14,7 @@ If you have any relevant openings, please feel free to contact me. Thank you!
 You can view my resume <a href="https://github.com/dian-lun-lin/dian-lun-lin.github.io/blob/main/dian_lun_lin_2024_resume.pdf">here</a>.
 
 #### Research Topic
-Parallel and Heterogeneous computing, Modern C++ Concurrency, GPU computing, CUDA, Design Automation, Machine learning, and Genetic Algorithm 
+Explore high-performance computing techniques to accelerate machine learning, electronic design automation, and other scientific computing applications using modern C++ and CUDA.
 #### Short Biography
 I'm a fifth-year Ph.D. student at the Department of Electrical and Computer Engineering at the University of Wisconsin-Madison. 
 My research interests focus on parallel computing and GPU computing using C++ and CUDA. 

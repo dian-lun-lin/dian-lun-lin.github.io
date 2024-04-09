@@ -31,7 +31,7 @@ published: true
 <!--0. [DAC 2023](https://www.dac.com/) - "<i>Design Automation Conference</i>", California, USA-->
 <!--0. [DAC 2022](https://www.dac.com/) - "<i>Design Automation Conference</i>", California, USA-->
 
-#### Invted Posts
+#### Invited Posts
 0. [Coroutines: A Scheduler for Tasks by Dian-Lun Lin](https://www.modernescpp.com/index.php/coroutines-a-scheduler-for-tasks-by-dian-lun-li/)
 0. [A Concise Introduction to Coroutines by Dian-Lun Lin](https://www.modernescpp.com/index.php/a-concise-introduction-to-coroutines-by-dian-lun-li/)
 

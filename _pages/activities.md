@@ -22,6 +22,7 @@ published: true
 0. [CppCon 2022](https://cppcon.org/) - "<i>The C++ Conference</i>", Colorado, USA
 
 #### Invited Journal Review
+0. [International Journal of Machine Learning and Cybernetics 2024](https://link.springer.com/journal/13042), USA
 0. [Concurrency and Computation: Practice and Experience 2024](https://onlinelibrary.wiley.com/journal/15320634), USA
 0. [The Journal of Supercomputing 2023](https://link.springer.com/journal/11227), USA
 0. [IEEE Access 2023](https://ieeeaccess.ieee.org/), USA

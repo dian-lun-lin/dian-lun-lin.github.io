@@ -15,6 +15,8 @@ Tsung-Wei Huang and ***Dain-lun Lin***, ["cudaFlow: Modern C++ Programming Model
 
 ## Papers
 
+***Dian-Lun Lin***, Tsung-Wei Huang, Joshua San Miguel, and Umit Ogras, "TaroRTL: Accelerating RTL Simulation using Coroutine-based Heterogeneous Task Graph Scheduling," International European Conference on Parallel and Distributed Computing (Euro-Par),Madrid, Spain, 2024
+
 ***Dian-Lun Lin*** (co-first author), Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, Bojue Wang, Wan Luan Lee, Chih-Chun Chang, Donghao Fang, and Tsung-Wei Huang, "G-PASTA: GPU Accelerated Partitioning Algorithm for Static Timing Analysis," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2024
 
 Wan Luan Lee, ***Dian-Lun Lin***, Tsung-Wei Huang, Shui Jiang, Tsung-Yi Ho, Yibo Lin, and Bei Yu, "G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2024

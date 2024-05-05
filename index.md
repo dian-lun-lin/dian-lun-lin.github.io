@@ -7,12 +7,6 @@ profile:
 published: true
 ---
 
-#### Seeking for a full-time role!
-I anticipate completing my PhD in the summer/fall of 2024 and am actively seeking a full-time role in high performance computing, 
-parallel and heterogeneous computing, with expertise in modern C++ and CUDA. 
-If you have any relevant openings, please feel free to contact me. Thank you!
-You can view my resume <a href="https://github.com/dian-lun-lin/dian-lun-lin.github.io/blob/main/dian_lun_lin_2024_resume.pdf">here</a>.
-
 #### Research Topic
 Explore high-performance computing techniques to accelerate machine learning, electronic design automation, and other scientific computing applications using modern C++ and CUDA.
 #### Short Biography

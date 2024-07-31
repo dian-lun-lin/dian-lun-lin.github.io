@@ -5,6 +5,10 @@ permalink: /publications/
 published: true
 ---
 
+## Thesis
+
+0. [Task-parallel Heterogeneous Programming System for Logic Simulation](../phdthesis.pdf)
+
 ## C++ Conference
 
 0. <mark>Dain-lun Lin</mark>, ["Taro: Task graph-based Asynchronous Programming Using C++ Coroutine"](https://youtu.be/UCejPLSCaoI), The C++ Conference (CppCon), US, 2023

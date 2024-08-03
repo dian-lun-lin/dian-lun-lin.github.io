@@ -16,4 +16,3 @@ During my PhD studies, I have published **five top-tier papers** (DAC 2023&2024,
 I received **second place** in ACM/PACT Student Research Competition (SRC 2022). I also received **champion award** in a research competition (IEEE HPEC Challenge 2020). 
 I was a presenter at the CppCon 2023, CppNow 2023, and CppCon 2021. 
 I also gave talks at MediaTek Research, Berkeley National Lab, and NVIDIA Research. 
-I will join Intel Labs to continue the research on heterogeneous and parallel computing.

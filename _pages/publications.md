@@ -19,7 +19,13 @@ published: true
 
 ## Papers
 
-0. <mark>Dian-Lun Lin</mark>, Tsung-Wei Huang, Joshua San Miguel, and Umit Ogras, "TaroRTL: Accelerating RTL Simulation using Coroutine-based Heterogeneous Task Graph Scheduling," International European Conference on Parallel and Distributed Computing (Euro-Par),Madrid, Spain, 2024
+0. Wan-Luan Lee, <mark>Dian-Lun Lin</mark>, Cheng-Hsiang Chiu, Ulf Schlichtmann, and Tsung-Wei Huang, "HyperG: Multilevel GPU-Accelerated k-way Hypergraph Partitioner," IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2025
+
+0. Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, <mark>Dian-Lun Lin</mark>, Yang Sui, Chih-Chun Chang, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "iTAP: An Incremental Task Graph Partitioner for Task-parallel Static Timing Analysis," IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2025
+
+0. Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, <mark>Dian-Lun Lin</mark>, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "PathGen: An Efficient Parallel Critical Path Generation Algorithm," IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2025
+
+0. <mark>Dian-Lun Lin</mark>, Tsung-Wei Huang, Joshua San Miguel, and Umit Ogras, "TaroRTL: Accelerating RTL Simulation using Coroutine-based Heterogeneous Task Graph Scheduling," International European Conference on Parallel and Distributed Computing (Euro-Par), Madrid, Spain, 2024
 
 0. <mark>Dian-Lun Lin</mark> (co-first author), Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, Bojue Wang, Wan Luan Lee, Chih-Chun Chang, Donghao Fang, and Tsung-Wei Huang, "G-PASTA: GPU Accelerated Partitioning Algorithm for Static Timing Analysis," ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2024
 

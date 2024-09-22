@@ -15,7 +15,7 @@ published: true
 
 0. <mark>Dain-lun Lin</mark>, ["Introduction to C++ Coroutines Through a Thread Scheduling Demonstration"](https://youtu.be/kIPzED3VD3w), The C++Now Conference (C++Now), US, 2023
 
-0. Tsung-Wei Huang and <mark>Dain-lun Lin</mark>, ["cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism "](https://youtu.be/-tIQbIhTAv8), The C++ Conference (CppCon), US, 2021
+0. <mark>Dain-lun Lin</mark> and Tsung-Wei Huang, ["cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism "](https://youtu.be/-tIQbIhTAv8), The C++ Conference (CppCon), US, 2021
 
 ## Papers
 
@@ -39,7 +39,7 @@ published: true
 
 0. <mark>Dian-Lun Lin</mark>, Yanqing Zhang, Haoxing Ren, Shih-Hsin Wang, Brucek Khailany, and Tsung-Wei Huang, "GenFuzz: GPU-accelerated Hardware Fuzzing using Genetic Algorithm with Multiple Inputs", ACM/IEEE Design Automation Conference (DAC), US, 2023
 
-0. Cheng-Hsiang Chiu, <mark>Dian-Lun Lin</mark>, and Tsung-Wei Huang, ["Programming Dynamic Task Parallelism for Heterogeneous EDA Algorithms (Invited paper)"](https://tsung-wei-huang.github.io/papers/iccad23-asynctask.pdf), International Conference on Computer-Aided Design (ICCAD), US, 2023
+0. Cheng-Hsiang Chiu, <ins>Dian-Lun Lin</ins>, and Tsung-Wei Huang, ["Programming Dynamic Task Parallelism for Heterogeneous EDA Algorithms (Invited paper)"](./publications/2023-iccad-asynctask.pdf), International Conference on Computer-Aided Design (ICCAD), US, 2023
 
 0. Elmir Dzaka, <mark>Dian-Lun Lin</mark>, Tsung-Wei Huang ["Parallel And-Inverter Graph Simulation Using a Task-graph Computing System"](https://ieeexplore.ieee.org/xpl/conhome/10196463/proceeding), IEEE International Symposium on Parallel and Distributed Processing Workshops (IPDPSW), US, 2023
 

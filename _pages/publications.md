@@ -39,7 +39,7 @@ published: true
 
 0. <mark>Dian-Lun Lin</mark>, Yanqing Zhang, Haoxing Ren, Shih-Hsin Wang, Brucek Khailany, and Tsung-Wei Huang, "GenFuzz: GPU-accelerated Hardware Fuzzing using Genetic Algorithm with Multiple Inputs", ACM/IEEE Design Automation Conference (DAC), US, 2023
 
-0. Cheng-Hsiang Chiu, <ins>Dian-Lun Lin</ins>, and Tsung-Wei Huang, ["Programming Dynamic Task Parallelism for Heterogeneous EDA Algorithms (Invited paper)"](./publications/2023-iccad-asynctask.pdf), International Conference on Computer-Aided Design (ICCAD), US, 2023
+0. Cheng-Hsiang Chiu, <u>**Dian-Lun Lin**</u>, and Tsung-Wei Huang, ["Programming Dynamic Task Parallelism for Heterogeneous EDA Algorithms (Invited paper)"](../publications/2023-iccad-asynctask.pdf), International Conference on Computer-Aided Design (ICCAD), US, 2023
 
 0. Elmir Dzaka, <mark>Dian-Lun Lin</mark>, Tsung-Wei Huang ["Parallel And-Inverter Graph Simulation Using a Task-graph Computing System"](https://ieeexplore.ieee.org/xpl/conhome/10196463/proceeding), IEEE International Symposium on Parallel and Distributed Processing Workshops (IPDPSW), US, 2023
 

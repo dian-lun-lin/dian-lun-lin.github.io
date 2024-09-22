@@ -7,15 +7,8 @@ published: true
 
 ## Thesis
 
-0. [Task-parallel Heterogeneous Programming System for Logic Simulation](../phdthesis.pdf)
-
-## C++ Conference
-
-0. <mark>Dain-lun Lin</mark>, ["Taro: Task graph-based Asynchronous Programming Using C++ Coroutine"](https://youtu.be/UCejPLSCaoI), The C++ Conference (CppCon), US, 2023
-
-0. <mark>Dain-lun Lin</mark>, ["Introduction to C++ Coroutines Through a Thread Scheduling Demonstration"](https://youtu.be/kIPzED3VD3w), The C++Now Conference (C++Now), US, 2023
-
-0. <mark>Dain-lun Lin</mark> and Tsung-Wei Huang, ["cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism "](https://youtu.be/-tIQbIhTAv8), The C++ Conference (CppCon), US, 2021
+0. <mark>Dian-Lun Lin</mark>, [Task-parallel Heterogeneous Programming System for Logic Simulation](../publications/phdthesis.pdf), PhD Dissertation, University of Wisconsin-Madison, 2024
+0. <mark>Dian-Lun Lin</mark>, On the analysis of network creation game with imperfect monitoring, Master Thesis, National Taiwan University, 2019
 
 ## Papers
 
@@ -39,7 +32,7 @@ published: true
 
 0. <mark>Dian-Lun Lin</mark>, Yanqing Zhang, Haoxing Ren, Shih-Hsin Wang, Brucek Khailany, and Tsung-Wei Huang, ["GenFuzz: GPU-accelerated Hardware Fuzzing using Genetic Algorithm with Multiple Inputs"](../publications/2023-dac-genfuzz.pdf), ACM/IEEE Design Automation Conference (DAC), US, 2023
 
-0. Cheng-Hsiang Chiu, <b><ins>Dian-Lun Lin</ins></b>, and Tsung-Wei Huang, ["Programming Dynamic Task Parallelism for Heterogeneous EDA Algorithms (Invited paper)"](../publications/2023-iccad-asynctask.pdf), International Conference on Computer-Aided Design (ICCAD), US, 2023
+0. Cheng-Hsiang Chiu, <mark>Dian-Lun Lin</mark>, and Tsung-Wei Huang, ["Programming Dynamic Task Parallelism for Heterogeneous EDA Algorithms (Invited paper)"](../publications/2023-iccad-asynctask.pdf), International Conference on Computer-Aided Design (ICCAD), US, 2023
 
 0. Elmir Dzaka, <mark>Dian-Lun Lin</mark>, Tsung-Wei Huang ["Parallel And-Inverter Graph Simulation Using a Task-graph Computing System"](../publications/2023-pdco.pdf), IEEE International Symposium on Parallel and Distributed Processing Workshops (IPDPSW), US, 2023
 
@@ -61,3 +54,11 @@ published: true
 0. Tsung-Wei Huang, <mark>Dian-Lun Lin</mark>, Chun-Xun Lin, and Yibo Lin, ["Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System"](../publications/2022-tpds-taskflow.pdf), IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022
 
 0. Tsung-Wei Huang, <mark>Dian-Lun Lin</mark>, Yibo Lin, and Chun-Xun Lin, ["Taskflow: A General-purpose Parallel and Heterogeneous Task Programming Systesm"](../publications/2022-tcad-taskflow.pdf), IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD), 2022
+
+## C++ Conferences
+
+0. <mark>Dain-Lun Lin</mark>, ["Taro: Task graph-based Asynchronous Programming Using C++ Coroutine"](https://youtu.be/UCejPLSCaoI), The C++ Conference (CppCon), US, 2023
+
+0. <mark>Dain-Lun Lin</mark>, ["Introduction to C++ Coroutines Through a Thread Scheduling Demonstration"](https://youtu.be/kIPzED3VD3w), The C++Now Conference (C++Now), US, 2023
+
+0. <mark>Dain-Lun Lin</mark> and Tsung-Wei Huang, ["cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism "](https://youtu.be/-tIQbIhTAv8), The C++ Conference (CppCon), US, 2021

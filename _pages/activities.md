@@ -24,6 +24,7 @@ published: true
 0. [CppCon 2022](https://cppcon.org/) - "<i>The C++ Conference</i>", Colorado, USA
 
 #### Invited Journal Review
+0. [The Journal of Supercomputing, 2024](https://link.springer.com/journal/11227), USA
 0. [International Journal of Computational Intelligence Systems, 2024](https://link.springer.com/journal/44196), USA
 0. [Transactions on Architecture and Code Optimization, 2024](https://dl.acm.org/journal/taco), USA
 0. [The Journal of Supercomputing, 2024](https://link.springer.com/journal/11227), USA

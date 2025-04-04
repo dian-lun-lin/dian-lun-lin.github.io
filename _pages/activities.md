@@ -24,7 +24,8 @@ published: true
 0. [CppCon 2022](https://cppcon.org/) - "<i>The C++ Conference</i>", Colorado, USA
 
 #### Invited Journal Review
-0. [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing), USA
+0. [Journal of Computational Science, 2025](https://www.sciencedirect.com/journal/journal-of-computational-science), USA
+0. [Applied Soft Computing, 2025](https://www.sciencedirect.com/journal/applied-soft-computing), USA
 0. [Transactions on Architecture and Code Optimization, 2025](https://dl.acm.org/journal/taco), USA
 0. [The Journal of Supercomputing, 2025](https://link.springer.com/journal/11227), USA
 0. [The Journal of Supercomputing, 2024](https://link.springer.com/journal/11227), USA

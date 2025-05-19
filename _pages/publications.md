@@ -11,12 +11,13 @@ published: true
 0. <mark>Dian-Lun Lin</mark>, On the analysis of network creation game with imperfect monitoring, Master Thesis, National Taiwan University, 2019
 
 ## Papers
+0. Wan-Luan Lee, Shui Jiang, <mark>Dian-Lun Lin</mark>, Che Chang, Boyang Zhang, Yi-Hua Chung, Ulf Schlichtmann, Tsung-Yi Ho, and Tsung-Wei Huang, ["iG-kway: Incremental k-way Graph Partitioning on GPU"](../publications/2025-dac-igkway.pdf), ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2025
 
-0. Wan-Luan Lee, <mark>Dian-Lun Lin</mark>, Cheng-Hsiang Chiu, Ulf Schlichtmann, and Tsung-Wei Huang, "HyperG: Multilevel GPU-Accelerated k-way Hypergraph Partitioner," IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2025
+0. Wan-Luan Lee, <mark>Dian-Lun Lin</mark>, Cheng-Hsiang Chiu, Ulf Schlichtmann, and Tsung-Wei Huang, ["HyperG: Multilevel GPU-Accelerated k-way Hypergraph Partitioner"](../publications/2025-aspdac-hyperg.pdf), IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2025
 
-0. Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, <mark>Dian-Lun Lin</mark>, Yang Sui, Chih-Chun Chang, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "iTAP: An Incremental Task Graph Partitioner for Task-parallel Static Timing Analysis," IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2025
+0. Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, <mark>Dian-Lun Lin</mark>, Yang Sui, Chih-Chun Chang, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, ["iTAP: An Incremental Task Graph Partitioner for Task-parallel Static Timing Analysis"](../publications/2025-aspdac-itap.pdf), IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2025
 
-0. Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, <mark>Dian-Lun Lin</mark>, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "PathGen: An Efficient Parallel Critical Path Generation Algorithm," IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2025
+0. Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, <mark>Dian-Lun Lin</mark>, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, ["PathGen: An Efficient Parallel Critical Path Generation Algorithm"](../publications/2025-aspdac-pathgen.pdf), IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2025
 
 0. <mark>Dian-Lun Lin</mark>, Tsung-Wei Huang, Joshua San Miguel, and Umit Ogras, ["TaroRTL: Accelerating RTL Simulation using Coroutine-based Heterogeneous Task Graph Scheduling"](../publications/2024-europar-taro.pdf), International European Conference on Parallel and Distributed Computing (Euro-Par), Madrid, Spain, 2024
 
@@ -49,9 +50,11 @@ published: true
 
 ## Journal Papers
 
+0. Wan-Luan Lee, <mark>Dian-Lun Lin</mark>, Shui Jiang, Cheng-Hsiang Chiu, Yibo Lin, Bei Yu, Tsung-Yi Ho, and Tsung-Wei Huang, ["G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner using Task Graph Parallelism"](../publications/2025-todaes-gkway.pdf), ACM Transactions on Design Automation of Electronic Systems (TODAES), 2025
+
 0. <mark>Dian-Lun Lin</mark> and Tsung-Wei Huang, ["Accelerating Large Sparse Neural Network Inference using GPU Task Graph Parallelism"](../publications/2022-tpds-snig.pdf), IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022
 
-0. Tsung-Wei Huang, <mark>Dian-Lun Lin</mark>, Chun-Xun Lin, and Yibo Lin, ["Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System"](../publications/2022-tpds-taskflow.pdf), IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022
+0. Tsung-Wei Huang, <mark>Dian-Lun Lin</mark>, Chun-Xun Lin, and Yibo Lin, ["Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System"](../publications/2021-tpds-taskflow.pdf), IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022
 
 0. Tsung-Wei Huang, <mark>Dian-Lun Lin</mark>, Yibo Lin, and Chun-Xun Lin, ["Taskflow: A General-purpose Parallel and Heterogeneous Task Programming Systesm"](../publications/2022-tcad-taskflow.pdf), IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD), 2022
 

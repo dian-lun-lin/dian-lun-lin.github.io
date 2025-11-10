@@ -10,7 +10,7 @@ published: true
 #### Research Topic
 Explore high-performance computing techniques to accelerate machine learning, electronic design automation, and other scientific computing applications using modern C++ and CUDA.
 #### Short Biography
-I am a Research Engineer/Scientist at Intel Labs.
+I am currently a Research Engineer at IBM and previously worked as a Research Engineer/Scientist at Intel Labs.
 I earned my PhD from the Department of Electrical and Computer Engineering at the University of Wisconsin-Madison in July 2024, 
 with a focus on parallel computing and GPU computing using C++ and CUDA. 
 During my PhD, I was the first author of five papers presented at top-tier conferences (DAC 2023 & 2024, Euro-Par 2024 & 2021, ICPP 2022) and one top-tier journal article (IEEE TPDS 2022). 
